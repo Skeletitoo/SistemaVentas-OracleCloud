@@ -111,7 +111,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_btnSalirActionPerformed
 
     public static void main(String args[]) {
-        // Forzar marcos y botones nativos en entornos Linux sin gestor gráfico completo
+        // FUERZA LOS MARCOS Y BOTONES DE CIERRE/MINIMIZAR EN ENTORNOS LINUX
         JFrame.setDefaultLookAndFeelDecorated(true);
 
         /* Set the Nimbus look and feel */
